@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Neuzeit Grotesk';
+  src: url('https://cdn.jsdelivr.net/gh/fernandocarneiro/moodle-fontes/fontNeuzeitGrotesk.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dazzle Unicase';
+  src: url('https://cdn.jsdelivr.net/gh/fernandocarneiro/moodle-fontes/fontDazzleUnicaseMedium.OTF') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
